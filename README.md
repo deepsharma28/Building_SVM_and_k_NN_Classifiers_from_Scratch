@@ -50,3 +50,29 @@ The goal is to deeply understand how these algorithms work internally, including
 ---
 
 ## 📁 Project Structure
+
+Building_SVM_and_k_NN_Classifiers_from_Scratch/
+│
+├── Building_SVM_and_k_NN_Classifiers_from_Scratch.ipynb
+├── README.md
+---
+
+## 📈 Output
+- Classification on synthetic dataset
+- Accuracy comparison between SVM and k-NN
+- Elbow graph for selecting best K
+- Decision boundary visualization
+
+---
+
+## 🚀 How to Run
+
+### Option 1: Google Colab
+1. Open the notebook in Colab
+2. Run all cells
+3. No installation required
+
+### Option 2: Local System
+```bash
+pip install numpy matplotlib
+jupyter notebook
